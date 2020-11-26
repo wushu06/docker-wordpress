@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form" vcs="Git" />
+  </component>
+</project>

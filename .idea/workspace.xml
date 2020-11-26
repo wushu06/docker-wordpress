@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f9bad9d-be74-4dc0-a112-2ebbfc1bcb5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/view/react-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Console/Command.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Init.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Middleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Model/Form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Model/FormInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/Setup/Install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Activate.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Activate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Ajax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/CPT.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Cron.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Enqueue.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Enqueue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/Gutenberg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/ShortCode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/WP/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/backend/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/backend/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/backend/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/backend/assets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/backend/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/backend/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/gutenberg/build/index.asset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/gutenberg/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/gutenberg/build/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/gutenberg/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/gutenberg/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/src/view/gutenberg/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/wp-codeable-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/codezinga/wp-content/plugins/wp-codeable-form/wp-codeable-form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Console/Command.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Init.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Middleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Model/Form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Model/FormInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/Setup/Install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Activate.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Activate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Ajax.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/CPT.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Cron.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Enqueue.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Enqueue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/Gutenberg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/ShortCode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/WP/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/backend/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/backend/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/backend/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/backend/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/gutenberg/build/index.asset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/gutenberg/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/gutenberg/build/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/gutenberg/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/gutenberg/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/src/view/gutenberg/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/wp-codeable-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form/wp-codeable-form.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/woo/wp-content/plugins/wp-codeable-form" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9005" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="woo.demo.test" id="dea72cfb-dded-4ce6-b81b-783c1cf520dd" name="xdebug" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/src/woo/wp-content" remote-root="/var/www/woo" />
+        </path_mappings>
+      </server>
+      <server host="woo.demo.test" id="acfae2af-12b1-4d3c-9fff-ea796c410513" name="woo.demo.test" port="443" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/src/woo" remote-root="/var/www/woo" />
+        </path_mappings>
+      </server>
+      <server host="backend.demo.test" id="850d6310-747c-44c0-b5ca-14cc351e36e7" name="backend.demo.test" port="443" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/src/backend" remote-root="/var/www/backend" />
+        </path_mappings>
+      </server>
+      <server host="host.docker.internal" id="fd9ae02c-b8d7-4ea0-abe8-80fd850567c6" name="host.docker.internal" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/src/backend" remote-root="/var/www/backend" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" port="9005" />
+  <component name="ProjectId" id="1kWnPGJjTztERaFSnzyhLuZfCih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.php.debug.xdebug.proxy" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.docker/nginx/conf.d" />
+      <recent name="$PROJECT_DIR$/.docker/m2/configs/local" />
+      <recent name="$PROJECT_DIR$/.docker/m2" />
+      <recent name="$PROJECT_DIR$/src/backend/wp-content/plugins" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Remote Debug.xdebug">
+    <configuration name="xdebug" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="backend.demo.test" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      <item itemvalue="PHP Remote Debug.xdebug" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f9bad9d-be74-4dc0-a112-2ebbfc1bcb5a" name="Default Changelist" comment="" />
+      <created>1605825188472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605825188472</updated>
+      <workItem from="1605825189540" duration="37046000" />
+      <workItem from="1606339138014" duration="7079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="202" key="#Deployment" timestamp="1605866338125">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="459" y="202" key="#Deployment/39.23.1641.1027@39.23.1641.1027" timestamp="1605866338125" />
+    <state x="443" y="189" key="#SSH_Configurations" timestamp="1605862089229">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="443" y="189" key="#SSH_Configurations/39.23.1641.1027@39.23.1641.1027" timestamp="1605862089229" />
+    <state x="447" y="210" key="#Servers" timestamp="1606389046070">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="447" y="210" key="#Servers/39.23.1641.1027@39.23.1641.1027" timestamp="1606389046070" />
+    <state x="324" y="86" width="1071" height="964" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606389047507">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="324" y="86" width="1071" height="964" key="#com.intellij.execution.impl.EditConfigurationsDialog/39.23.1641.1027@39.23.1641.1027" timestamp="1606389047507" />
+    <state x="561" y="336" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606164253782">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="561" y="336" key="#com.intellij.fileTypes.FileTypeChooser/39.23.1641.1027@39.23.1641.1027" timestamp="1606164253782" />
+    <state width="1597" height="345" key="GridCell.Tab.0.bottom" timestamp="1606421274121">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.0.bottom/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274121" />
+    <state width="1597" height="345" key="GridCell.Tab.0.center" timestamp="1606421274119">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.0.center/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274119" />
+    <state width="1597" height="345" key="GridCell.Tab.0.left" timestamp="1606421274118">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.0.left/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274118" />
+    <state width="1597" height="345" key="GridCell.Tab.0.right" timestamp="1606421274120">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.0.right/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274120" />
+    <state width="1597" height="345" key="GridCell.Tab.1.bottom" timestamp="1606421274124">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.1.bottom/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274124" />
+    <state width="1597" height="345" key="GridCell.Tab.1.center" timestamp="1606421274122">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.1.center/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274122" />
+    <state width="1597" height="345" key="GridCell.Tab.1.left" timestamp="1606421274122">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.1.left/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274122" />
+    <state width="1597" height="345" key="GridCell.Tab.1.right" timestamp="1606421274123">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.1.right/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274123" />
+    <state width="1597" height="345" key="GridCell.Tab.2.bottom" timestamp="1606421274125">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.2.bottom/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274125" />
+    <state width="1597" height="345" key="GridCell.Tab.2.center" timestamp="1606421274124">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.2.center/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274124" />
+    <state width="1597" height="345" key="GridCell.Tab.2.left" timestamp="1606421274124">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.2.left/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274124" />
+    <state width="1597" height="345" key="GridCell.Tab.2.right" timestamp="1606421274124">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="1597" height="345" key="GridCell.Tab.2.right/39.23.1641.1027@39.23.1641.1027" timestamp="1606421274124" />
+    <state x="697" y="331" key="PhpDebugProjectChooserDialog" timestamp="1606389758332">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="697" y="331" key="PhpDebugProjectChooserDialog/39.23.1641.1027@39.23.1641.1027" timestamp="1606389758332" />
+    <state x="361" y="175" key="SettingsEditor" timestamp="1606339368244">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="361" y="175" key="SettingsEditor/39.23.1641.1027@39.23.1641.1027" timestamp="1606339368244" />
+    <state width="680" height="445" key="SwitcherDM" timestamp="1606167881420">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state width="680" height="445" key="SwitcherDM/39.23.1641.1027@39.23.1641.1027" timestamp="1606167881420" />
+    <state x="459" y="272" key="Vcs.Push.Dialog.v2" timestamp="1606338834104">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="459" y="272" key="Vcs.Push.Dialog.v2/39.23.1641.1027@39.23.1641.1027" timestamp="1606338834104" />
+    <state x="698" y="440" key="WebDeployment.AddServerDialog.v.1" timestamp="1605861658011">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="698" y="440" key="WebDeployment.AddServerDialog.v.1/39.23.1641.1027@39.23.1641.1027" timestamp="1605861658011" />
+    <state x="371" y="109" width="1089" height="856" key="find.popup" timestamp="1606423314970">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="371" y="109" width="1089" height="856" key="find.popup/39.23.1641.1027@39.23.1641.1027" timestamp="1606423314970" />
+    <state x="524" y="248" key="run.anything.popup" timestamp="1606339019847">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="524" y="248" key="run.anything.popup/39.23.1641.1027@39.23.1641.1027" timestamp="1606339019847" />
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1606338823776">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup/39.23.1641.1027@39.23.1641.1027" timestamp="1606338823776" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/woo/wp-content/themes/storefront/header.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/woo/wp-content/themes/storefront/header.php</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/woo/wp-content/themes/storefront/header.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/WP/Api.php</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/WP/Api.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/codezinga-dashboard-hr.php</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/codezinga-dashboard-hr.php</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/backend/index.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/backend/wp-content/themes/twentytwenty/header.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/src/backend/wp-content/plugins/codezinga-dashboard-hr/src/WP/Api.php</url>
+          <line>48</line>
+          <properties>
+            <option name="className" value="\CodeZinga\WP\Api" />
+            <option name="methodName" value="getData" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

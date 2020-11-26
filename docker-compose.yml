@@ -1,0 +1,123 @@
+version: '3.7'
+
+# Services
+services:
+
+  # Nginx Service
+  nginx:
+    build: ./.docker/nginx
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./src/backend:/var/www/backend:ro,delegated
+      - ./src/woo:/var/www/woo:ro,delegated
+      - ./src/codezinga:/var/www/codezinga:ro,delegated
+      - ./src/m2:/var/www/m2:ro,delegated
+      - ./.docker/nginx/conf.d:/etc/nginx/conf.d:ro
+      - phpmyadmindata:/var/www/phpmyadmin:ro,delegated
+      - ./.docker/nginx/certs:/etc/nginx/certs:delegated
+    depends_on:
+      - backend
+      - phpmyadmin
+    networks:
+      - app-network
+
+  # https://backend.demo.test/
+  backend:
+    build: ./.docker/backend
+    working_dir: /var/www/backend
+    volumes:
+      - ./src/backend:/var/www/backend
+    env_file: .env
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+
+  #https://woo.demo.test/
+  woo:
+    build: ./.docker/woo
+    working_dir: /var/www/woo
+    volumes:
+      - ./src/woo:/var/www/woo
+    env_file: .env
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+
+  codezinga:
+    build: ./.docker/codezinga
+    working_dir: /var/www/codezinga
+    volumes:
+      - ./src/codezinga:/var/www/codezinga
+    env_file: .env
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+
+  m2:
+    build: ./.docker/m2
+    working_dir: /var/www/m2
+    volumes:
+      - ./src/m2:/var/www/m2
+    env_file: .env
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+
+  wpcli:
+    image: wordpress:cli
+    working_dir: /var/www/woo
+    volumes:
+      - ./src/woo:/var/www/woo
+    depends_on:
+      - mysql
+      - woo
+    networks:
+      - app-network
+
+  # MySQL Service
+  mysql:
+    container_name: mysql
+    image: mariadb:latest
+    restart: always
+    ports:
+      - "4306:3306"
+    volumes:
+      - ./.mysql:/var/lib/mysql
+     # - ./.dockerfiles/mysql/percona-server.conf.d:/etc/mysql/percona-server.conf.d
+     # - ./.docker/mysql/my.cnf:/etc/mysql/conf.d/my.cnf:ro
+    environment:
+      MYSQL_RANDOM_ROOT_PASSWORD: 1
+      MYSQL_DATABASE: demo
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: password
+    networks:
+      - app-network
+
+  # PhpMyAdmin Service
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:5-fpm-alpine
+    environment:
+      PMA_HOST: mysql
+    volumes:
+      - phpmyadmindata:/var/www/html:delegated
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+# Volumes
+volumes:
+
+  mysqldata:
+
+  phpmyadmindata:
+
+
+networks:
+  app-network:
+    driver: bridge
